@@ -84,7 +84,3 @@ Dose amounts, infusion rates, and dosing intervals are defined in the dosing fun
 - Some later notebook cells are exploratory alternatives to the combined model and use different assumptions or parameter values.
 - The displayed concentration targets and kidney-disease bands are contextual visual references, not dosing recommendations.
 - Results are computational predictions intended for education and model exploration. The project is not a validated clinical decision-support tool and must not be used to determine patient treatment.
-
-## Author
-
-Simon Stryszak
